@@ -217,7 +217,7 @@ a.sidebar-nav-item:focus {
   cursor: pointer;
 }
 .sidebar-toggle:before {
-  display: block;
+  display: inline-block;
   content: "";
   width: 100%;
   padding-bottom: .125rem;
